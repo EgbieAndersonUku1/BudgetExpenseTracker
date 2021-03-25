@@ -2,7 +2,7 @@
 #Budget Tracker
 
 Budget Tracker is a web based application that I building. Once complete
-tha tracker will allow the user to track their income and expenditure, view their income or
+the tracker will allow the user to track their income and expenditure, view their income or
 expenditures in a chart, pie chart, bar chart, etc, track their own expenditure or income history,
 view or download it in a pdf format, etc. The application
 will also has a saving estimator where it will operate in two ways
