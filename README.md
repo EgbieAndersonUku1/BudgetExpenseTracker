@@ -34,10 +34,11 @@ of the pages are not the final design and will be subjected to change but for no
 The front pages using a lot of Javascript for the front end but the backend will use python
 
 ##Todo
-    1.Build the backend using Python
-    2.Build the rest of the front end
-    3. Complete the saving estimator
-    4. Finish the frontend design as well as the pages
+
+        1.Build the backend using Python
+        2.Build the rest of the front end
+        3. Complete the saving estimator
+        4. Finish the frontend design as well as the pages
 
 
 
